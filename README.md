@@ -1,2 +1,2 @@
 # BancodedadosGerenciamentoBiblioteca
-Para começar a trabalhar com banco de dados no java fiz um sistema de gerenciamento de uma biblioteca com interface.
+Para concluir a cadeira de Banco de dados na Faculdade, implementei um sistema de gerenciamento de uma biblioteca, esse desafio me proporcionou um conhecimento aprofundado em SQL.
